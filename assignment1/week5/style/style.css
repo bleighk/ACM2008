@@ -1,0 +1,11 @@
+/*Table form CSS:*/
+	table{
+		width: 50%;
+	}
+
+	th{
+		text-align: left;
+		font-size: 75%;
+	}
+
+	/*reference: http://www.w3schools.com/html/html_tables.asp*/

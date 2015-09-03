@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+	<link href="style/style.css" rel="stylesheet">
+	<title>ACM2008 | s3924650 Bradley Knight | Assignment 1 Week 5a</title>
+</head>
+<body>
+
+<form action="week5b.php" method="post" name="formlocation" id="formlocation">
+	<p>Please select your holiday package destination:</p>
+
+<!--Decided to put my options into a table format. I thought this might make my form look a bit more professional (and my code a bit cleaner), but I also just wanted to go back on what we learned in semester 1 with HTML tables. End result isn't great, but it was a fun revision excersise.  -->
+
+	<table>
+		<tr>
+			<th>Destination</th>
+			<th>Cost (per person)</th>
+		</tr>
+		<tr>
+			<td><label><input type="radio" name="radioDestination" value="2000" id="brisbane">Brisbane</label></td>
+			<td>$2,000</td>
+		</tr>
+		<tr>
+			<td><label><input type="radio" name="radioDestination" value="2700" id="auckland">Auckland</label></td>
+			<td>$2,700</td>
+		</tr>
+		<tr>
+			<td><label><input type="radio" name="radioDestination" value="4500" id="newYork">New York</label></td>
+			<td>$4,500</td>
+		</tr>
+		<tr>
+			<td><label><input type="radio" name="radioDestination" value="9999" id="mars">Mars
+			</label></td>
+			<td>$9,999</td>
+		</tr>
+	</table>
+	<br>
+	<input type="submit" name="submit" id="submit" value="Submit">
+	<input type="reset" name="reset" id="reset" value="Reset">
+
+</form>
+
+<br>
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+
+</body>
+</html>
