@@ -9,7 +9,7 @@ Weekly PHP excersises, part 1:
 <li>Week 3: Business contact form</li>
 <li>Week 4: Practising with dynamic If statements</li>
 <li>Week 5: Holiday reservation using PHP</li>
-
+</ul>
 # Assignment 2 
 PHP Quiz - "Drivers Practice Test"
 
