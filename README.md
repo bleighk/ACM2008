@@ -17,7 +17,7 @@ PHP Quiz - "Drivers Practice Test"
 Weekly exersises, part 2:
 <br>
 <ul>
-<li>Week 2: Connecting to MySQL and manipulating data tables.</li>
+<li>Week 8: Connecting to MySQL and manipulating data tables.</li>
 </ul>
 
 
