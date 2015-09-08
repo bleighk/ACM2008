@@ -30,7 +30,9 @@
 		echo "<td>".$row['content_author']."</td>";
 		echo "<td>".$row['date']."</td>";
 		echo "</tr>";
-
+		
+		/*08.09.2015: I am experiencing a strange bug that is causing my $row array to list from the second entry.*/
+		
 		/*echo "<p>".$row['content_id']."</p>";
 		echo "<p>".$row['content_title']."</p>";
 		echo "<p>".$row['content_author']."</p>";
