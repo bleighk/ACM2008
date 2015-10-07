@@ -7,7 +7,7 @@ Weekly PHP exersises, part 1:
 <ul>
 <li>Week 2: Current time and date generator.</li>
 <li>Week 3: Business contact form.</li>
-<li>Week 4: Practising with dynamic If statements.</li>
+<li>Week 4: Practicing dynamic If statements.</li>
 <li>Week 5: Holiday reservation using PHP.</li>
 </ul>
 <h2>Assignment 2</h2> 
@@ -18,7 +18,9 @@ Weekly exersises, part 2:
 <br>
 <ul>
 <li>Week 8: Connecting to MySQL and manipulating data tables.</li>
-<li>Week 9: Utilizing PHP's secure hash algorithm to encrypt user passwords. Preventing SQL Injection.</li>
+<li>Week 9: Utilising PHP's secure hash algorithm to encrypt user passwords. Preventing SQL Injection.</li>
+<li>Week 10:</li>
+<li>Week 11: Optimisation of code: utilising Object-Oriented Processing in PHP</li>
 </ul>
 
 
