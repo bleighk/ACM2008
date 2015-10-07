@@ -43,7 +43,7 @@ mysqli_close($con);
 
 
 
-<p><a href="week9c.html">Admin</a</p>
+<p><a href="week9c.html">Admin</a></p>
 
 
 </body>
