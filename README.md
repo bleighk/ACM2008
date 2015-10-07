@@ -11,7 +11,7 @@ Weekly PHP exersises, part 1:
 <li>Week 5: Holiday reservation using PHP.</li>
 </ul>
 <h2>Assignment 2</h2> 
-PHP Quiz - "Drivers Practice Test"
+PHP Quiz - "Drivers Practice Test".
 
 <h2>Assignment 3</h2>
 Weekly exersises, part 2:
@@ -19,8 +19,8 @@ Weekly exersises, part 2:
 <ul>
 <li>Week 8: Connecting to MySQL and manipulating data tables.</li>
 <li>Week 9: Utilising PHP's secure hash algorithm to encrypt user passwords. Preventing SQL Injection.</li>
-<li>Week 10:</li>
-<li>Week 11: Optimisation of code: utilising Object-Oriented Processing in PHP</li>
+<li>Week 10: Templates and the GET method.</li>
+<li>Week 11: Optimisation of code: utilising Object-Oriented Processing in PHP.</li>
 </ul>
 
 
