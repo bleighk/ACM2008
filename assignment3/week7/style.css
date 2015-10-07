@@ -1,0 +1,13 @@
+body{
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+div.statement{
+	color: #0a52b8;
+	font-weight: bold;
+}
+
+ul.answer{
+	color: red;
+	font-style: italic;
+}
