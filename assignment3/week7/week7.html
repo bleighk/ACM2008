@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+	<title>ACM2008 | s3924650 Bradley Knight | Assignment 3 | Week 7</title>
+	<link href="style.css" rel="stylesheet">
+</head>
+<body>
+<h1>ACM2008 Weekly Journal Exercise - Week 7</h1>
+<h3>Bradley Knight - s3924650</h3>
+<br>
+<br>
+
+<div id="statement"><p>Statement A:</p></div>
+	<p id="question">Gather all the information from tblpeople from a record where the people_id field equals 3.</p>
+	<ul id="answer">
+		<li><p>SELECT * FROM tblpeople WHERE people_id=3;</p></li>
+	</ul>
+	<br>
+
+<div id="statement"><p>Statement B:</p></div>
+	<p id="question">Insert a record into tblpeople, making sure you give a value for each field.</p>
+	<ul id="answer">
+		<li><p>INSERT INTO tblpeople(people_id, people_firstname, people_lastname, people_state, people_license) VALUES (NULL, 'Michael', 'Hoo', 'NT', 'Truck');</p></li>
+	</ul>
+	<br>
+
+<div id="statement"><p>Statement C:</p></div>
+	<p id="question">Delete a single record from tblpeople (you choose which record).</p>
+	<ul id="answer">
+		<li><p>DELETE FROM tblpeople WHERE people_id=2;</p></li> <!--goodbye Jimmy :(-->
+	</ul>
+	<br>
+
+<div id="statement"><p>Statement D:</p></div>
+	<p id="question">Create an SQL statement which will select a record from the table using a PHP variable to determine which record will be selected.</p>
+	<ul id="answer">
+		<li><p>SELECT * FROM tblpeople WHERE people_firstname='$name';</p></li>
+	</ul>
+	<br>
+</body>
+</html>

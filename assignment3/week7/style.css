@@ -1,0 +1,13 @@
+body{
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#statement{
+	color: #0a52b8;
+	font-style: bold;
+}
+
+#answer{
+	color: red;
+	font-style: italic;
+}
