@@ -17,7 +17,7 @@ PHP Quiz - "Drivers Practice Test".
 Weekly exersises, part 2:
 <br>
 <ul>
-<li>Week 7: Introduction to databse structure and SQL.</li>
+<li>Week 7: Introduction to database structure and SQL.</li>
 <li>Week 8: Connecting to MySQL and manipulating data tables.</li>
 <li>Week 9: Utilising PHP's secure hash algorithm to encrypt user passwords. Preventing SQL Injection.</li>
 <li>Week 10: Templates and the GET method.</li>
