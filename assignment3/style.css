@@ -1,0 +1,29 @@
+body {
+	font-family: "helvetica", "arial";
+}
+
+
+
+	#nav {
+		font-size: 80%;
+		line-height: 30px;
+		background-color: #858585;
+		height: 100%;
+		width: 150px;
+		margin-top: 50px;
+	}
+
+/*header CSS*/
+
+	#header {
+		background-color: #333333;
+		color: white;
+		text-align:left;
+		padding: 5px;
+		width: 100%;
+	}
+
+
+
+
+/*CSS reference: www.w3schools.com/html/html_layout.asp*/
