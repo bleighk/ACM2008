@@ -2,7 +2,7 @@
 ACM2008 Dynamic Web Development 
 
 <h2>Assignment 1</h2>
-Weekly PHP exersises, part 1:
+Weekly PHP exercises, part 1:
 <br>
 <ul>
 <li>Week 2: Current time and date generator.</li>
@@ -14,7 +14,7 @@ Weekly PHP exersises, part 1:
 PHP Quiz - "Drivers Practice Test".
 
 <h2>Assignment 3</h2>
-Weekly exersises, part 2:
+Weekly exercises, part 2:
 <br>
 <ul>
 <li>Week 7: Introduction to database structure and SQL.</li>
